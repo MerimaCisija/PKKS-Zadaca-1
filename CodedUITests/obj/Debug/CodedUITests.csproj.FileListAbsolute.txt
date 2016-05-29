@@ -1,0 +1,5 @@
+C:\Users\Merima\Desktop\PKKS-Zadaca1\pkksZadaca1\CodedUITests\bin\Debug\CodedUITests.dll
+C:\Users\Merima\Desktop\PKKS-Zadaca1\pkksZadaca1\CodedUITests\bin\Debug\CodedUITests.pdb
+C:\Users\Merima\Desktop\PKKS-Zadaca1\pkksZadaca1\CodedUITests\obj\Debug\CodedUITests.csprojResolveAssemblyReference.cache
+C:\Users\Merima\Desktop\PKKS-Zadaca1\pkksZadaca1\CodedUITests\obj\Debug\CodedUITests.dll
+C:\Users\Merima\Desktop\PKKS-Zadaca1\pkksZadaca1\CodedUITests\obj\Debug\CodedUITests.pdb

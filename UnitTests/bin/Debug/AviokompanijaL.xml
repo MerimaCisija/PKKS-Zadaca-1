@@ -1,0 +1,41 @@
+<?xml version="1.0"?>
+<ArrayOfKarta xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Karta>
+    <id>3</id>
+    <putnik>
+      <ime>Imenko</ime>
+      <prezime>Prezimenko</prezime>
+      <jmbg>0123456789123</jmbg>
+      <telefon>38761123456</telefon>
+      <komentar>komentar</komentar>
+    </putnik>
+    <let>
+      <polaziste>Sarajevo</polaziste>
+      <odrediste>Istanbul</odrediste>
+      <distanca>923</distanca>
+      <prtljag>2</prtljag>
+      <takse>50</takse>
+      <klasaSjedista>5</klasaSjedista>
+      <cijenaLeta>162.09</cijenaLeta>
+    </let>
+  </Karta>
+  <Karta>
+    <id>2</id>
+    <putnik>
+      <ime>Reufik</ime>
+      <prezime>Mujkic</prezime>
+      <jmbg>2410975012300</jmbg>
+      <telefon>387</telefon>
+      <komentar />
+    </putnik>
+    <let>
+      <polaziste>Sarajevo</polaziste>
+      <odrediste>Pariz</odrediste>
+      <distanca>1350</distanca>
+      <prtljag>2</prtljag>
+      <takse>58.1775346035972</takse>
+      <klasaSjedista>5</klasaSjedista>
+      <cijenaLeta>250</cijenaLeta>
+    </let>
+  </Karta>
+</ArrayOfKarta>

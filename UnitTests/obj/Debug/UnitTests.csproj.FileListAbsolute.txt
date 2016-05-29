@@ -1,0 +1,8 @@
+C:\Users\Merima\Desktop\PKKS-Zadaca1\pkksZadaca1\UnitTests\obj\Debug\UnitTests.csprojResolveAssemblyReference.cache
+C:\Users\Merima\Desktop\PKKS-Zadaca1\pkksZadaca1\UnitTests\bin\Debug\UnitTests.dll
+C:\Users\Merima\Desktop\PKKS-Zadaca1\pkksZadaca1\UnitTests\bin\Debug\UnitTests.pdb
+C:\Users\Merima\Desktop\PKKS-Zadaca1\pkksZadaca1\UnitTests\bin\Debug\AviokompanijaL.exe
+C:\Users\Merima\Desktop\PKKS-Zadaca1\pkksZadaca1\UnitTests\bin\Debug\AviokompanijaL.pdb
+C:\Users\Merima\Desktop\PKKS-Zadaca1\pkksZadaca1\UnitTests\obj\Debug\UnitTests.dll
+C:\Users\Merima\Desktop\PKKS-Zadaca1\pkksZadaca1\UnitTests\obj\Debug\UnitTests.pdb
+C:\Users\Merima\Desktop\PKKS-Zadaca1\pkksZadaca1\UnitTests\bin\Debug\AviokompanijaL.xml

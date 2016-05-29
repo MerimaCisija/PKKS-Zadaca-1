@@ -1,0 +1,98 @@
+<?xml version="1.0"?>
+<ArrayOfKarta xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Karta>
+    <id>55</id>
+    <putnik>
+      <ime>gfh</ime>
+      <prezime>jhgfds</prezime>
+      <jmbg>1234567890123</jmbg>
+      <telefon>+38762-111-223</telefon>
+      <komentar />
+    </putnik>
+    <let>
+      <polaziste>Sarajevo</polaziste>
+      <odrediste>Pariz</odrediste>
+      <distanca>1350</distanca>
+      <prtljag>17</prtljag>
+      <takse>99</takse>
+      <klasaSjedista>10</klasaSjedista>
+      <cijenaLeta>404.454439683784</cijenaLeta>
+    </let>
+  </Karta>
+  <Karta>
+    <id>155</id>
+    <putnik>
+      <ime>ime</ime>
+      <prezime>string prezime</prezime>
+      <jmbg>string jmbg</jmbg>
+      <telefon>string telefon</telefon>
+      <komentar>string komentar</komentar>
+    </putnik>
+    <let>
+      <polaziste>string polaziste</polaziste>
+      <odrediste>string odrediste</odrediste>
+      <distanca>15</distanca>
+      <prtljag>15</prtljag>
+      <takse>15</takse>
+      <klasaSjedista>5</klasaSjedista>
+      <cijenaLeta>500</cijenaLeta>
+    </let>
+  </Karta>
+  <Karta>
+    <id>8</id>
+    <putnik>
+      <ime>poiuzt</ime>
+      <prezime>poiuztrr</prezime>
+      <jmbg>1111111111111</jmbg>
+      <telefon>+11111-111-111</telefon>
+      <komentar />
+    </putnik>
+    <let>
+      <polaziste>Istanbul</polaziste>
+      <odrediste>Sarajevo</odrediste>
+      <distanca>923</distanca>
+      <prtljag>15</prtljag>
+      <takse>15</takse>
+      <klasaSjedista>5</klasaSjedista>
+      <cijenaLeta>155.057393907658</cijenaLeta>
+    </let>
+  </Karta>
+  <Karta>
+    <id>73</id>
+    <putnik>
+      <ime>pppp</ime>
+      <prezime>ppppp</prezime>
+      <jmbg>1234567897777</jmbg>
+      <telefon>+99999-999-999</telefon>
+      <komentar>novo</komentar>
+    </putnik>
+    <let>
+      <polaziste>Pariz</polaziste>
+      <odrediste>Sarajevo</odrediste>
+      <distanca>1350</distanca>
+      <prtljag>1</prtljag>
+      <takse>100</takse>
+      <klasaSjedista>5</klasaSjedista>
+      <cijenaLeta>310.077284054054</cijenaLeta>
+    </let>
+  </Karta>
+  <Karta>
+    <id>71</id>
+    <putnik>
+      <ime>imenko</ime>
+      <prezime>prezimenko</prezime>
+      <jmbg>0001112223339</jmbg>
+      <telefon>+66666-666-666</telefon>
+      <komentar>Proradi vise!!!!</komentar>
+    </putnik>
+    <let>
+      <polaziste>Sarajevo</polaziste>
+      <odrediste>Pariz</odrediste>
+      <distanca>1350</distanca>
+      <prtljag>78</prtljag>
+      <takse>100</takse>
+      <klasaSjedista>5</klasaSjedista>
+      <cijenaLeta>773.865994054054</cijenaLeta>
+    </let>
+  </Karta>
+</ArrayOfKarta>
